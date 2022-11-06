@@ -496,10 +496,10 @@ width: 400px;
     padding-left: 100%;
 }
 @media (max-width: 991px) {
-    .content {
-        flex-wrap: wrap;
-        width: 100%;
-    }
+    /* .content {
+        /* flex-wrap: wrap; */
+        /* width: 100%; */
+    /* } */ 
     .about .container .content .row {
     flex-wrap: wrap;
     }

@@ -134,7 +134,7 @@ header .checkbtn{
 #check{
     display: none;
 }
-header ul li:nth-child(5) i {
+header ul li:nth-child(5) svg {
     display: none;
 }
 @media (max-width: 767px) {

@@ -661,6 +661,9 @@ width: 400px;
     .blog .row{
     flex-wrap: wrap;
 }
+.blog .content{
+    width: auto;
+}
 .blog .blog-iteam{
     width: 70%;
     padding: 10px 0;
